@@ -1,0 +1,17 @@
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\bin\Debug\netcoreapp3.1\AppliGestDept.exe
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\bin\Debug\netcoreapp3.1\AppliGestDept.deps.json
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\bin\Debug\netcoreapp3.1\AppliGestDept.runtimeconfig.json
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\bin\Debug\netcoreapp3.1\AppliGestDept.runtimeconfig.dev.json
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\bin\Debug\netcoreapp3.1\AppliGestDept.dll
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\bin\Debug\netcoreapp3.1\AppliGestDept.pdb
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\bin\Debug\netcoreapp3.1\ClassDepartement.dll
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\bin\Debug\netcoreapp3.1\ClassDepartement.pdb
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\obj\Debug\netcoreapp3.1\AppliGestDept.csproj.AssemblyReference.cache
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\obj\Debug\netcoreapp3.1\AppliGestDept.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\obj\Debug\netcoreapp3.1\AppliGestDept.AssemblyInfoInputs.cache
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\obj\Debug\netcoreapp3.1\AppliGestDept.AssemblyInfo.cs
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\obj\Debug\netcoreapp3.1\AppliGestDept.csproj.CoreCompileInputs.cache
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\obj\Debug\netcoreapp3.1\AppliGestDept.csproj.CopyComplete
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\obj\Debug\netcoreapp3.1\AppliGestDept.dll
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\obj\Debug\netcoreapp3.1\AppliGestDept.pdb
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\AppliGestDept\obj\Debug\netcoreapp3.1\AppliGestDept.genruntimeconfig.cache

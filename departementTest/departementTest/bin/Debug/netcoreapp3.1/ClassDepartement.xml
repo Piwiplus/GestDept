@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassDepartement</name>
+    </assembly>
+    <members>
+        <member name="T:ClassDepartement.Departement">
+            <summary>
+            Classe Departement
+            </summary>
+        </member>
+        <member name="M:ClassDepartement.Departement.#ctor(System.String,System.String,System.Double,System.Double,System.String)">
+            <summary>
+            Constructeur de la classe Departement
+            </summary>
+            <param name="unNumero">numéro du département</param>
+            <param name="unNom">nom du département</param>
+            <param name="uneSuperficie">superficie du département en km2</param>
+            <param name="unePopulation">population du département en milliers d'habitants</param>
+            <param name="uneRegion">région du département</param>
+        </member>
+        <member name="M:ClassDepartement.Departement.Afficher">
+            <summary>
+            Affiche le détail des informations du département
+            </summary>
+        </member>
+        <member name="M:ClassDepartement.Departement.CalculerDensite">
+            <summary>
+            Retourne la densité du département
+            </summary>
+            <returns>densité du département en nombre d'habitants / km2</returns>
+        </member>
+        <member name="M:ClassDepartement.Departement.GetNumero">
+            <summary>
+            Retourne le numéro du département
+            </summary>
+            <returns>Numéro du département</returns>
+        </member>
+        <member name="M:ClassDepartement.Departement.GetNom">
+            <summary>
+            Retourne le nom du département
+            </summary>
+            <returns>Nom du département</returns>
+        </member>
+        <member name="M:ClassDepartement.Departement.GetRegion">
+            <summary>
+            Retourne le nom de la région du département
+            </summary>
+            <returns>Région du département</returns>
+        </member>
+        <member name="M:ClassDepartement.Departement.GetSuperficie">
+            <summary>
+            Retourne la superficie du département 
+            </summary>
+            <returns>Superficie du département en km2</returns>
+        </member>
+        <member name="M:ClassDepartement.Departement.GetPopulation">
+            <summary>
+            Retourne la population du département 
+            </summary>
+            <returns>Population du département en milliers d'habitants </returns>
+        </member>
+        <member name="M:ClassDepartement.Departement.SetNom(System.String)">
+            <summary>
+            Modifie le nom du département
+            </summary>
+            <param name="unNom">nom du département</param>
+        </member>
+        <member name="M:ClassDepartement.Departement.SetRegion(System.String)">
+            <summary>
+            Modifie la région du département
+            </summary>
+            <param name="uneRegion">région du département</param>
+        </member>
+        <member name="M:ClassDepartement.Departement.SetPopulation(System.Double)">
+            <summary>
+            Modifie la population du département
+            </summary>
+            <param name="unePopulation">population du département en milliers d'habitants</param>
+        </member>
+    </members>
+</doc>

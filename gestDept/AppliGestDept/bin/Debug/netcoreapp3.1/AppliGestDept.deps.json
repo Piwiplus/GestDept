@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AppliGestDept/1.0.0": {
+        "dependencies": {
+          "ClassDepartement": "1.0.0"
+        },
+        "runtime": {
+          "AppliGestDept.dll": {}
+        }
+      },
+      "ClassDepartement/1.0.0": {
+        "runtime": {
+          "ClassDepartement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppliGestDept/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassDepartement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

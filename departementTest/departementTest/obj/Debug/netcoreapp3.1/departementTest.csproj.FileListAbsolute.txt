@@ -1,0 +1,17 @@
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\bin\Debug\netcoreapp3.1\departementTest.exe
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\bin\Debug\netcoreapp3.1\departementTest.deps.json
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\bin\Debug\netcoreapp3.1\departementTest.runtimeconfig.json
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\bin\Debug\netcoreapp3.1\departementTest.runtimeconfig.dev.json
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\bin\Debug\netcoreapp3.1\departementTest.dll
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\bin\Debug\netcoreapp3.1\departementTest.pdb
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\bin\Debug\netcoreapp3.1\ClassDepartement.dll
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\bin\Debug\netcoreapp3.1\ClassDepartement.xml
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\obj\Debug\netcoreapp3.1\departementTest.csproj.AssemblyReference.cache
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\obj\Debug\netcoreapp3.1\departementTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\obj\Debug\netcoreapp3.1\departementTest.AssemblyInfoInputs.cache
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\obj\Debug\netcoreapp3.1\departementTest.AssemblyInfo.cs
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\obj\Debug\netcoreapp3.1\departementTest.csproj.CoreCompileInputs.cache
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\obj\Debug\netcoreapp3.1\departementTest.csproj.CopyComplete
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\obj\Debug\netcoreapp3.1\departementTest.dll
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\obj\Debug\netcoreapp3.1\departementTest.pdb
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\departementTest\departementTest\obj\Debug\netcoreapp3.1\departementTest.genruntimeconfig.cache

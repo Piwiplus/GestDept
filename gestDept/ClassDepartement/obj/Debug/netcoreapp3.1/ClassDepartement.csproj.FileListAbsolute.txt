@@ -1,0 +1,10 @@
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\ClassDepartement\bin\Debug\netcoreapp3.1\ClassDepartement.deps.json
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\ClassDepartement\bin\Debug\netcoreapp3.1\ClassDepartement.dll
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\ClassDepartement\bin\Debug\netcoreapp3.1\ClassDepartement.pdb
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\ClassDepartement\obj\Debug\netcoreapp3.1\ClassDepartement.csproj.AssemblyReference.cache
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\ClassDepartement\obj\Debug\netcoreapp3.1\ClassDepartement.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\ClassDepartement\obj\Debug\netcoreapp3.1\ClassDepartement.AssemblyInfoInputs.cache
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\ClassDepartement\obj\Debug\netcoreapp3.1\ClassDepartement.AssemblyInfo.cs
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\ClassDepartement\obj\Debug\netcoreapp3.1\ClassDepartement.csproj.CoreCompileInputs.cache
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\ClassDepartement\obj\Debug\netcoreapp3.1\ClassDepartement.dll
+Z:\B2-GIRARD SPE\TP\02TP\TP02_PartieB\gestDept\ClassDepartement\obj\Debug\netcoreapp3.1\ClassDepartement.pdb
